@@ -1,7 +1,11 @@
-# Matheus Monteiro
+# Matheus Monteiro da Mata
 
-Fazedor de bolos profissionais <br>
-![Development and Automation](https://github.com/MonteiroMagmoss/MonteiroMagmoss/blob/main/coding.gif)
+<p align="center">Game Dev em ascensão! Atualmente estudando Front-End com o objetivo de virar Full Stack. Autodidata, focado e determinado a me tornar um grande
+desenvolvedor e programador.</p><br>
+
+<p align="center">
+  <img width="1000" src="https://github.com/MonteiroMagmoss/MonteiroMagmoss/blob/main/coding.gif">
+</p>
 
 <h3 align="left"> 📨 Contate with me: </h3>
 <p align="center">
@@ -23,3 +27,32 @@ Fazedor de bolos profissionais <br>
   <img src="https://i.redd.it/tu3gt6ysfxq71.png" height="50" alt="unity-engine">
   <img src="https://cdn.freelogovectors.net/svg10/adobe-photoshop_logo-freelogovectors.net_.svg" height="50" alt="photoshop">
 </p>
+
+## ⭐ Projects with Unity: 
+<table align="center">
+  <tr>
+    <th>Projects</th>
+    <th>Links</th>
+    <th>Repositories</th>
+  </tr>
+  <tr>
+    <th><img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2F15ca6bc0-2db3-4a23-8523-86befb2eea41%2Fcontent&w=1080&q=75"></th>
+    <th><a href="https://play.unity.com/pt/games/c8ac3099-80c8-4add-875f-fb475c937eb1/reprogram">Project Shooter</a></th>
+    <th><a href="https://github.com/MonteiroMagmoss/ProjectShooterCodes">Repo</a></th>
+  </tr>
+  <tr>
+    <th><img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2Fe210137e-7c10-42ab-a242-99f7141543fb%2Fcontent&w=1080&q=75"></th>
+    <th><a href="https://play.unity.com/pt/games/eea78bf0-6555-43b3-b47f-d6ebfe6c03fb/corrida-do-ouro">Corrida do Ouro</a></th>
+    <th><a href="https://github.com/MonteiroMagmoss/RoyalRunProjectCodes">Repo</a></th>
+  </tr>
+  <tr>
+    <th><img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2F4d7f4f96-a8f5-4844-9a51-f72c73b13213%2Fcontent&w=1080&q=75"></th>
+    <th><a href="https://play.unity.com/pt/games/352b6df6-8e91-45cf-bcc4-3015afbb1ee7/mousespaceweb">MouseSpace</a></th>
+    <th><a href="https://github.com/MonteiroMagmoss/ProjectMouseSpaceCodes">Repo</a></th>
+  </tr>
+  <tr>
+    <th><img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2F3b1cd9e0-7782-453f-a101-1700e8acf913%2Fcontent&w=1080&q=75"></th>
+    <th><a href="https://play.unity.com/pt/games/ca12b744-1957-4275-a38f-141538ee1579/game-rocket-boost-by-mag">Rocket Boost</a></th>
+    <th><a href="https://github.com/MonteiroMagmoss/MyProjectRocketBoostCodes">Repo</a></th>
+  </tr>
+</table>
