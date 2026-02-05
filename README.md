@@ -1,5 +1,7 @@
 # Matheus Monteiro da Mata
 
+![snake gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">Game Dev em ascensão! Atualmente estudando Front-End com o objetivo de virar Full Stack. Autodidata, focado e determinado a me tornar um grande
 desenvolvedor e programador.</p><br>
 
@@ -14,22 +16,12 @@ desenvolvedor e programador.</p><br>
   <a href="https://www.instagram.com/mount.magmath?igsh=bmptcnBrZDY2ajU5" target="blank"><img align="center" src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0" alt="matheus" height="40" width="40" /></a>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonteiroMagmoss)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe width="600" height="600" src="https://vedantghodke.github.io/GitHub-Profile-Language-Percentage-Calculator/api.html?@MonteiroMagmoss" frameborder="0"></iframe>
+![Language Percentage](https://vedantghodke.github.io/GitHub-Profile-Language-Percentage-Calculator/api.html?@MonteiroMagmoss)
+
+<iframe src="https://vedantghodke.github.io/GitHub-Profile-Language-Percentage-Calculator/api.html?@MonteiroMagmoss" width="600" height="600" frameborder="0"></iframe>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME">
 </a>
