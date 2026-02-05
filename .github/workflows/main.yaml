@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - output
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
