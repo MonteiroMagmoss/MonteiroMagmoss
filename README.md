@@ -1,3 +1,4 @@
+![pacman gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/main/.github/images/github-contribution-grid-pacman-dark.svg)
 # Matheus Monteiro da Mata
 
 <p align="center">Game Dev em ascensão! Atualmente estudando Front-End com o objetivo de virar Full Stack. Autodidata, focado e determinado a me tornar um grande
@@ -7,7 +8,7 @@ desenvolvedor e programador.</p><br>
   <img width="700" src="https://github.com/MonteiroMagmoss/MonteiroMagmoss/blob/main/coding.gif">
 </p>
 
-![snake gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/output/github-contribution-grid-snake-dark.svg)
+
 
 <div style="display: flex;">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonteiroMagmoss&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=nightowl&hide_border=true"/><br><br><br>
@@ -20,6 +21,8 @@ desenvolvedor e programador.</p><br>
   <a href="https://www.facebook.com/matheus.monteiro.3388" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" alt="matheus" height="60" width="60" /></a>
   <a href="https://www.instagram.com/mount.magmath?igsh=bmptcnBrZDY2ajU5" target="blank"><img align="center" src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0" alt="matheus" height="40" width="40" /></a>
 </p>
+
+![snake gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/output/github-contribution-grid-snake-dark.svg)
 
 ## ⭐ Front-End Development
 <p align="left">
