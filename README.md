@@ -10,7 +10,7 @@ desenvolvedor e programador.</p><br>
 ![snake gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/output/github-contribution-grid-snake-dark.svg)
 
 <div style="display: flex;">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonteiroMagmoss&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=nightowl&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonteiroMagmoss&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=nightowl&hide_border=true"/><br><br><br>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MonteiroMagmoss&theme=nightowl&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
 </div>
 
