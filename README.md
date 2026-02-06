@@ -1,16 +1,18 @@
 # Matheus Monteiro da Mata
 
-![snake gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/output/github-contribution-grid-snake-dark.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroMagmoss)](https://github.com/MonteiroMagmoss/github-readme-stats)
-
-
 <p align="center">Game Dev em ascensão! Atualmente estudando Front-End com o objetivo de virar Full Stack. Autodidata, focado e determinado a me tornar um grande
 desenvolvedor e programador.</p><br>
 
 <p align="center">
   <img width="700" src="https://github.com/MonteiroMagmoss/MonteiroMagmoss/blob/main/coding.gif">
 </p>
+
+![snake gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/output/github-contribution-grid-snake-dark.svg)
+
+<div style="display: flex;">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonteiroMagmoss&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=nightowl&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MonteiroMagmoss&theme=nightowl&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
+</div>
 
 <h3 align="left"> 📨 Contate with me: </h3>
 <p align="center">
@@ -33,6 +35,13 @@ desenvolvedor e programador.</p><br>
   <img src="https://cdn.freelogovectors.net/svg10/adobe-photoshop_logo-freelogovectors.net_.svg" height="50" alt="photoshop">
 </p>
 
+
+## ⭐ Repositórios em destaque
+
+<a href="https://github.com/MonteiroMagmoss/atividadesSenaiFrontEnd">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=atividadesSenaiFrontEnd&theme=nightowl&hide_border=true&show_owner=false" />
+</a>
+
 ## ⭐ Projects with Unity: 
 <table align="center">
   <tr>
@@ -43,21 +52,37 @@ desenvolvedor e programador.</p><br>
   <tr>
     <th><img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2F15ca6bc0-2db3-4a23-8523-86befb2eea41%2Fcontent&w=1080&q=75" height="250"></th>
     <th><a href="https://play.unity.com/pt/games/c8ac3099-80c8-4add-875f-fb475c937eb1/reprogram">Project Shooter</a></th>
-    <th><a href="https://github.com/MonteiroMagmoss/ProjectShooterCodes">Repo</a></th>
+    <th>
+      <a href="https://github.com/MonteiroMagmoss/ProjectShooterCodes">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=ProjectShooterCodes&theme=nightowl&hide_border=true&show_owner=false" />
+      </a>
+    </th>
   </tr>
   <tr>
     <th><img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2Fe210137e-7c10-42ab-a242-99f7141543fb%2Fcontent&w=1080&q=75" height="250"></th>
     <th><a href="https://play.unity.com/pt/games/eea78bf0-6555-43b3-b47f-d6ebfe6c03fb/corrida-do-ouro">Corrida do Ouro</a></th>
-    <th><a href="https://github.com/MonteiroMagmoss/RoyalRunProjectCodes">Repo</a></th>
+    <th>
+      <a href="https://github.com/MonteiroMagmoss/RoyalRunProjectCodes">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=RoyalRunProjectCodes&theme=nightowl&hide_border=true&show_owner=false" />
+      </a>
+    </th>
   </tr>
   <tr>
     <th><img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2F4d7f4f96-a8f5-4844-9a51-f72c73b13213%2Fcontent&w=1080&q=75" height="250"></th>
     <th><a href="https://play.unity.com/pt/games/352b6df6-8e91-45cf-bcc4-3015afbb1ee7/mousespaceweb">MouseSpace</a></th>
-    <th><a href="https://github.com/MonteiroMagmoss/ProjectMouseSpaceCodes">Repo</a></th>
+    <th>
+      <a href="https://github.com/MonteiroMagmoss/ProjectMouseSpaceCodes">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=ProjectMouseSpaceCodes&theme=nightowl&hide_border=true&show_owner=false" />
+      </a>
+    </th>
   </tr>
   <tr>
     <th><img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2F3b1cd9e0-7782-453f-a101-1700e8acf913%2Fcontent&w=1080&q=75" height="250"></th>
     <th><a href="https://play.unity.com/pt/games/ca12b744-1957-4275-a38f-141538ee1579/game-rocket-boost-by-mag">Rocket Boost</a></th>
-    <th><a href="https://github.com/MonteiroMagmoss/MyProjectRocketBoostCodes">Repo</a></th>
+    <th>
+      <a href="https://github.com/MonteiroMagmoss/MyProjectRocketBoostCodes">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=MyProjectRocketBoostCodes&theme=nightowl&hide_border=true&show_owner=false" />
+      </a>
+    </th>
   </tr>
 </table>
