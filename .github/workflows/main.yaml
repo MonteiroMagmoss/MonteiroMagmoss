@@ -47,3 +47,27 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://green.sapphi.red/feed.rss
+
+
+      - name: Generate GitHub Contribution Grid Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.METRICS_TOKEN }}
+          
+      - name: Copy GitHub Contribution Grid Pac-Man to .github/images
+        if: always()
+        run: |
+          mkdir -p .github/workflows
+          # Light version
+          if [ -f dist/pacman-contribution-graph.svg ]; then
+            cp -v dist/pacman-contribution-graph.svg .github/workflows/github-contribution-grid-pacman.svg
+          fi
+          # Dark version
+          if [ -f dist/pacman-contribution-graph-dark.svg ]; then
+            cp -v dist/pacman-contribution-graph-dark.svg .github/workflows/github-contribution-grid-pacman-dark.svg
+          fi
+
+
+          
