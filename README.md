@@ -1,7 +1,7 @@
 ![pacman gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/main/.github/images/github-contribution-grid-pacman-dark.svg)
 # Matheus Monteiro da Mata
 
-<p align="center">Game Dev em ascensão! Atualmente estudando Front-End com o objetivo de virar Full Stack. Autodidata, focado e determinado a me tornar um grande
+<p align="center">Game Dev em ascensão! Atualmente estudando Front-End no SENAI com o objetivo de virar Full Stack. Autodidata, focado e determinado a me tornar um grande
 desenvolvedor e programador.</p><br>
 
 <p align="center">
