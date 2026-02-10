@@ -35,12 +35,16 @@ desenvolvedor e programador.</p><br>
 <p align="left">
   <img src="https://iconape.com/wp-content/png_logo_vector/c.png" height="50" alt="c-sharp">
   <img src="https://i.redd.it/tu3gt6ysfxq71.png" height="50" alt="unity-engine">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autodesk-maya-icon.png" height="50" alt="autodesk_maya">
   <img src="https://cdn.freelogovectors.net/svg10/adobe-photoshop_logo-freelogovectors.net_.svg" height="50" alt="photoshop">
 </p>
 
 
 ## ⭐ Repositórios em destaque
 
+<a href="https://github.com/MonteiroMagmoss/landingPageProject">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=landingPageProject&theme=nightowl&hide_border=true&show_owner=false" />
+</a>
 <a href="https://github.com/MonteiroMagmoss/atividadesSenaiFrontEnd">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=atividadesSenaiFrontEnd&theme=nightowl&hide_border=true&show_owner=false" />
 </a>
