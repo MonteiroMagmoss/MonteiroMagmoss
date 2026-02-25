@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - output
+permissions: 
+  contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
