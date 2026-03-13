@@ -1,8 +1,7 @@
 ![pacman gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/main/.github/images/github-contribution-grid-pacman-dark.svg)
 # Matheus Monteiro da Mata
 
-<p align="center">Front-End Developer em formação | React • JavaScript • HTML • CSS | Estudando no SENAI e evoluindo para Full Stack
-desenvolvedor e programador.</p><br>
+<p align="center">Front-End Developer em formação | React • JavaScript • HTML • CSS | Estudando no SENAI e evoluindo para Full Stack.</p><br>
 
 <p align="center">
   <img width="700" src="https://github.com/MonteiroMagmoss/MonteiroMagmoss/blob/main/coding.gif">
