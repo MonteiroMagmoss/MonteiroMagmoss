@@ -1,20 +1,43 @@
 ![pacman gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/main/.github/images/github-contribution-grid-pacman-dark.svg)
 # Matheus Monteiro da Mata
 
-<p align="center">Front-End Developer em formação | React • JavaScript • HTML • CSS | Estudando no SENAI e evoluindo para Full Stack.</p><br>
+<div align="center">
+  <h3>
+    💻 Front-End Developer in training | React • JavaScript • HTML • CSS | 🎮 Game Developer enthusiast
+  </h3><br>
+  <p>
+      Front-End Developer em formação no SENAI | React • JavaScript • HTML • CSS  
+Construindo projetos práticos e evoluindo continuamente para me tornar Full Stack Developer.
+  </p>
+</div>
+<br>
 
 <p align="center">
   <img width="700" src="https://github.com/MonteiroMagmoss/MonteiroMagmoss/blob/main/coding.gif">
 </p>
 
+## 🇺🇸 Ver.
+  Front-End Developer in training, currently studying at SENAI and actively building projects using React, JavaScript, HTML, and CSS. Passionate about creating modern and interactive web interfaces, I focus on improving my skills through hands-on development and continuous learning. My long-term goal is to grow as a developer and become a Full Stack Developer, capable of building complete and scalable web applications.
+
+## 🇧🇷 Ver.
+  Desenvolvedor em formação com foco em Front-End, atualmente estudando no SENAI e desenvolvendo projetos práticos utilizando React, JavaScript, HTML e CSS. Busco constantemente evoluir minhas habilidades através da criação de aplicações web e do estudo contínuo de boas práticas de desenvolvimento. Tenho grande interesse em construir interfaces modernas e interativas, com o objetivo de me tornar um Desenvolvedor Full Stack no futuro.
 
 
-<div style="display: flex;">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonteiroMagmoss&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=nightowl&hide_border=true"/><br><br><br>
+
+<div style="display: flex;" align="center">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonteiroMagmoss&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=nightowl&hide_border=true"/>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MonteiroMagmoss&theme=nightowl&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
 </div>
 
-<h3 align="left"> 📨 Contate with me: </h3>
+## 🚀 About Me
+
+- 🎓 Currently studying **Front-End Development at SENAI**
+- 💻 Focused on **React, JavaScript, HTML and CSS**
+- 🧠 Passionate about building interactive web applications
+- 🎮 Background in **Game Development with Unity and C#**
+- 📈 Always learning and improving through practical projects
+
+<h3 align="left"> 📨 Contate me: </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-monteiro-752a8721b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="matheus" height="40" width="40" /></a>
   <a href="https://www.facebook.com/matheus.monteiro.3388" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" alt="matheus" height="60" width="60" /></a>
@@ -29,6 +52,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="50" alt="css">
   <img src="https://th.bing.com/th/id/R.04c5f18749c6a1c64b65f6d8f26d7b53?rik=LkrYgbJM3QA11g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjavascript-vector-png-javascript-vector-logo-600.png&ehk=AXgaWQyvJOW74V%2fR1QuC2sk1YLpGBMJiGQVzBM07y2Q%3d&risl=&pid=ImgRaw&r=0" height="50" alt="javascript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" alt="react-logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="50" alt="vite-logo">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png" height="50" alt="figma-logo">
 </p>
 
 ## ⭐ Game Development
