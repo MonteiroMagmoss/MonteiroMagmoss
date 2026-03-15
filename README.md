@@ -52,6 +52,7 @@ Construindo projetos práticos e evoluindo continuamente para me tornar Full Sta
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="50" alt="css">
   <img src="https://th.bing.com/th/id/R.04c5f18749c6a1c64b65f6d8f26d7b53?rik=LkrYgbJM3QA11g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjavascript-vector-png-javascript-vector-logo-600.png&ehk=AXgaWQyvJOW74V%2fR1QuC2sk1YLpGBMJiGQVzBM07y2Q%3d&risl=&pid=ImgRaw&r=0" height="50" alt="javascript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" alt="react-logo">
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="50" alt="node-logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="50" alt="vite-logo">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png" height="50" alt="figma-logo">
 </p>
