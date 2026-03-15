@@ -42,6 +42,7 @@ Construindo projetos práticos e evoluindo continuamente para me tornar Full Sta
   <a href="https://www.linkedin.com/in/matheus-monteiro-752a8721b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="matheus" height="40" width="40" /></a>
   <a href="https://www.facebook.com/matheus.monteiro.3388" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" alt="matheus" height="60" width="60" /></a>
   <a href="https://www.instagram.com/mount.magmath?igsh=bmptcnBrZDY2ajU5" target="blank"><img align="center" src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0" alt="matheus" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/mount.magmath?igsh=bmptcnBrZDY2ajU5" target="blank"><img align="center" src="https://img.freepik.com/vetores-gratis/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.jpg?semt=ais_hybrid&w=740&q=80" alt="matheus" height="40" width="40" /></a>
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/MonteiroMagmoss/MonteiroMagmoss/output/github-contribution-grid-snake-dark.svg)
