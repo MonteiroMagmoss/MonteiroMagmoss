@@ -70,11 +70,11 @@ Construindo projetos práticos e evoluindo continuamente para me tornar Full Sta
 
 ## ⭐ Repositórios em destaque
 
+<a href="https://github.com/MonteiroMagmoss/EcommerceTotem">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=EcommerceTotem&theme=nightowl&hide_border=true&show_owner=false" />
+</a>
 <a href="https://github.com/MonteiroMagmoss/landingPageProject">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=landingPageProject&theme=nightowl&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/MonteiroMagmoss/atividadesSenaiFrontEnd">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=atividadesSenaiFrontEnd&theme=nightowl&hide_border=true&show_owner=false" />
 </a>
 
 ## ⭐ Projects with Unity: 
