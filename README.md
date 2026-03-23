@@ -67,6 +67,12 @@ Construindo projetos práticos e evoluindo continuamente para me tornar Full Sta
   <img src="https://cdn.freelogovectors.net/svg10/adobe-photoshop_logo-freelogovectors.net_.svg" height="50" alt="photoshop">
 </p>
 
+## ⭐ Studing
+<p align="left">
+  <img src="https://images.icon-icons.com/2415/PNG/512/java_original_logo_icon_146458.png" height="50" alt="java">
+  <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="50" alt="mysql">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50" alt="typescript">
+</p>
 
 ## ⭐ Repositórios em destaque
 
