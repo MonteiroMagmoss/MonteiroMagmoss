@@ -3,10 +3,9 @@
 
 <div align="center">
   <h3>
-    💻 Front-End Developer in training | React • JavaScript • HTML • CSS | 🎮 Game Developer enthusiast
+    💻 Front-End Developer | React • JavaScript • HTML • CSS | 🎮 Game Developer enthusiast
   </h3><br>
   <p>
-      Front-End Developer em formação no SENAI | React • JavaScript • HTML • CSS  
 Construindo projetos práticos e evoluindo continuamente para me tornar Full Stack Developer.
   </p>
 </div>
@@ -17,10 +16,14 @@ Construindo projetos práticos e evoluindo continuamente para me tornar Full Sta
 </p>
 
 ## 🇺🇸 Ver.
-  Front-End Developer in training, currently studying at SENAI and actively building projects using React, JavaScript, HTML, and CSS. Passionate about creating modern and interactive web interfaces, I focus on improving my skills through hands-on development and continuous learning. My long-term goal is to grow as a developer and become a Full Stack Developer, capable of building complete and scalable web applications.
+  Front-End Developer with technical training from SENAI, currently studying Computer Science at FMU and actively building projects using React, JavaScript, HTML, and CSS.
+
+Passionate about creating modern and interactive web interfaces, I focus on improving my skills through hands-on development and continuous learning. My long-term goal is to grow as a developer and become a Full Stack Developer, capable of building complete and scalable web applications.
 
 ## 🇧🇷 Ver.
-  Desenvolvedor em formação com foco em Front-End, atualmente estudando no SENAI e desenvolvendo projetos práticos utilizando React, JavaScript, HTML e CSS. Busco constantemente evoluir minhas habilidades através da criação de aplicações web e do estudo contínuo de boas práticas de desenvolvimento. Tenho grande interesse em construir interfaces modernas e interativas, com o objetivo de me tornar um Desenvolvedor Full Stack no futuro.
+  Desenvolvedor Front-End com formação técnica pelo SENAI, atualmente cursando Ciência da Computação pela FMU e desenvolvendo projetos práticos utilizando React, JavaScript, HTML e CSS.
+
+Busco constantemente evoluir minhas habilidades através da criação de aplicações web e do estudo contínuo de boas práticas de desenvolvimento. Tenho grande interesse em construir interfaces modernas e interativas, com o objetivo de me tornar um Desenvolvedor Full Stack no futuro.
 
 
 
@@ -31,7 +34,8 @@ Construindo projetos práticos e evoluindo continuamente para me tornar Full Sta
 
 ## 🚀 About Me
 
-- 🎓 Currently studying **Front-End Development at SENAI**
+- 🎓 Front-End Development Technician — SENAI (Completed)
+- 🎓 Currently studying **Computer Science at FMU**
 - 💻 Focused on **React, JavaScript, HTML and CSS**
 - 🧠 Passionate about building interactive web applications
 - 🎮 Background in **Game Development with Unity and C#**
