@@ -5,9 +5,6 @@
   <h3>
     💻 Front-End Developer | React • JavaScript • HTML • CSS | 🎮 Game Developer enthusiast
   </h3><br>
-  <p>
-Construindo projetos práticos e evoluindo continuamente para me tornar Full Stack Developer.
-  </p>
 </div>
 <br>
 
