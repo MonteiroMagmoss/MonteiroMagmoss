@@ -60,7 +60,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 
 ## ⭐ Front-End Development
 <p align="left">
-  <img src="https://i0.wp.com/azuredays.com/wp-content/uploads/2020/06/html5_badge.png?ssl=1&fit=3816%2C1590" height="50" alt="html">
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="50" alt="html">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="50" alt="css">
   <img src="https://th.bing.com/th/id/R.04c5f18749c6a1c64b65f6d8f26d7b53?rik=LkrYgbJM3QA11g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjavascript-vector-png-javascript-vector-logo-600.png&ehk=AXgaWQyvJOW74V%2fR1QuC2sk1YLpGBMJiGQVzBM07y2Q%3d&risl=&pid=ImgRaw&r=0" height="50" alt="javascript">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png" height="50" alt="git">
