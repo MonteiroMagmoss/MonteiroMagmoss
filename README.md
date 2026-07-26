@@ -72,6 +72,11 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png" height="50" alt="figma-logo">
 </p>
 
+## ⭐ Back-End
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="50" alt="html">
+</p>
+
 ## ⭐ Game Development
 <p align="left">
   <img src="https://iconape.com/wp-content/png_logo_vector/c.png" height="50" alt="c-sharp">
