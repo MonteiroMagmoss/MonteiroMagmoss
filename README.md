@@ -74,7 +74,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 
 ## ⭐ Back-End
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="50" alt="html">
+  <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="50" alt="mysql">
 </p>
 
 ## ⭐ Game Development
