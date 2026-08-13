@@ -79,7 +79,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 
 ## ⭐ Game Development
 <p align="left">
-  <img src="https://iconape.com/wp-content/png_logo_vector/c.png" height="50" alt="c-sharp">
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="50" alt="c-sharp">
   <img src="https://i.redd.it/tu3gt6ysfxq71.png" height="50" alt="unity-engine">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autodesk-maya-icon.png" height="50" alt="autodesk_maya">
   <img src="https://cdn.freelogovectors.net/svg10/adobe-photoshop_logo-freelogovectors.net_.svg" height="50" alt="photoshop">
