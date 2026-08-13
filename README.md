@@ -25,8 +25,8 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 
 
 <div style="display: flex;" align="center">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonteiroMagmoss&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=nightowl&hide_border=true"/>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MonteiroMagmoss&theme=nightowl&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MonteiroMagmoss&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=nightowl&hide_border=true"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=MonteiroMagmoss&theme=nightowl&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
 </div>
 
 ## 🚀 About Me
@@ -96,10 +96,10 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 ## ⭐ Repositórios em destaque
 
 <a href="https://github.com/MonteiroMagmoss/EcommerceTotem">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=EcommerceTotem&theme=nightowl&hide_border=true&show_owner=false&cache_seconds=1" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=EcommerceTotem&theme=nightowl&hide_border=true&show_owner=false&cache_seconds=1" />
 </a>
 <a href="https://github.com/MonteiroMagmoss/landingPageProject">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=landingPageProject&theme=nightowl&hide_border=true&show_owner=false" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=landingPageProject&theme=nightowl&hide_border=true&show_owner=false" />
 </a>
 
 ## ⭐ Projects with Unity: 
@@ -114,7 +114,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
     <th><a href="https://play.unity.com/pt/games/c8ac3099-80c8-4add-875f-fb475c937eb1/reprogram">Project Shooter</a></th>
     <th>
       <a href="https://github.com/MonteiroMagmoss/ProjectShooterCodes">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=ProjectShooterCodes&theme=nightowl&hide_border=true&show_owner=false" />
+        <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=ProjectShooterCodes&theme=nightowl&hide_border=true&show_owner=false" />
       </a>
     </th>
   </tr>
@@ -123,7 +123,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
     <th><a href="https://play.unity.com/pt/games/eea78bf0-6555-43b3-b47f-d6ebfe6c03fb/corrida-do-ouro">Corrida do Ouro</a></th>
     <th>
       <a href="https://github.com/MonteiroMagmoss/RoyalRunProjectCodes">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=RoyalRunProjectCodes&theme=nightowl&hide_border=true&show_owner=false" />
+        <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=RoyalRunProjectCodes&theme=nightowl&hide_border=true&show_owner=false" />
       </a>
     </th>
   </tr>
@@ -132,7 +132,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
     <th><a href="https://play.unity.com/pt/games/352b6df6-8e91-45cf-bcc4-3015afbb1ee7/mousespaceweb">MouseSpace</a></th>
     <th>
       <a href="https://github.com/MonteiroMagmoss/ProjectMouseSpaceCodes">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=ProjectMouseSpaceCodes&theme=nightowl&hide_border=true&show_owner=false" />
+        <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=ProjectMouseSpaceCodes&theme=nightowl&hide_border=true&show_owner=false" />
       </a>
     </th>
   </tr>
@@ -141,7 +141,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
     <th><a href="https://play.unity.com/pt/games/ca12b744-1957-4275-a38f-141538ee1579/game-rocket-boost-by-mag">Rocket Boost</a></th>
     <th>
       <a href="https://github.com/MonteiroMagmoss/MyProjectRocketBoostCodes">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MonteiroMagmoss&repo=MyProjectRocketBoostCodes&theme=nightowl&hide_border=true&show_owner=false" />
+        <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=MyProjectRocketBoostCodes&theme=nightowl&hide_border=true&show_owner=false" />
       </a>
     </th>
   </tr>
