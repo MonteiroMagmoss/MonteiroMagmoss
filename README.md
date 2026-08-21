@@ -98,8 +98,8 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 <a href="https://github.com/MonteiroMagmoss/EcommerceTotem">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=EcommerceTotem&theme=nightowl&hide_border=true&show_owner=false&cache_seconds=1" />
 </a>
-<a href="https://github.com/MonteiroMagmoss/landingPageProject">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=landingPageProject&theme=nightowl&hide_border=true&show_owner=false" />
+<a href="https://github.com/MonteiroMagmoss/GridLandingPage">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=MonteiroMagmoss&repo=GridLandingPage&theme=nightowl&hide_border=true&show_owner=false" />
 </a>
 
 ## ⭐ Projects with Unity: 
